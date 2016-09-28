@@ -1,0 +1,12 @@
+F:\HuaWei\TestProj\WindowsFormsApplication1\ReadHTML\bin\Debug\ReadHTML.exe
+F:\HuaWei\TestProj\WindowsFormsApplication1\ReadHTML\bin\Debug\ReadHTML.pdb
+F:\HuaWei\TestProj\WindowsFormsApplication1\ReadHTML\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\HuaWei\TestProj\WindowsFormsApplication1\ReadHTML\obj\x86\Debug\ReadHTML.Form1.resources
+F:\HuaWei\TestProj\WindowsFormsApplication1\ReadHTML\obj\x86\Debug\ReadHTML.Properties.Resources.resources
+F:\HuaWei\TestProj\WindowsFormsApplication1\ReadHTML\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\HuaWei\TestProj\WindowsFormsApplication1\ReadHTML\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\HuaWei\TestProj\WindowsFormsApplication1\ReadHTML\obj\x86\Debug\ReadHTML.exe
+F:\HuaWei\TestProj\WindowsFormsApplication1\ReadHTML\obj\x86\Debug\ReadHTML.pdb
+F:\HuaWei\TestProj\WindowsFormsApplication1\ReadHTML\bin\Debug\HTMLPage_DEMO.htm
+C:\01_Code\TestProj\WindowsFormsApplication1\ReadHTML\obj\x86\Debug\ReadHTML.exe
+C:\01_Code\TestProj\WindowsFormsApplication1\ReadHTML\obj\x86\Debug\ReadHTML.pdb
